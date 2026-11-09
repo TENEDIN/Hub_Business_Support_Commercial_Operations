@@ -106,7 +106,7 @@
   aoRolar();
 
   // prévia que segue o cursor (apenas mouse)
-  if (reduz || !matchMedia("(hover: hover) and (pointer: fine)").matches) return;
+     if (!matchMedia("(hover: hover) and (pointer: fine)").matches) return;
 
   var prev = document.createElement("div");
   prev.className = "previa";
