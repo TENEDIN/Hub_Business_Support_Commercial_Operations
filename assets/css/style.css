@@ -253,8 +253,7 @@ h1 em { font-style: normal; color: var(--green); }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; }
   html { scroll-behavior: auto; }
-  .previa { display: none; }
-}
+ }
 
 /* rodapé sem workspace: contato à esquerda */
 .contato { grid-column: 1 / span 6; align-self: start; }
