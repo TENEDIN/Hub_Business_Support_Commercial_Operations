@@ -92,7 +92,7 @@ window.HUB = {
           nome: "Sustentabilidade 2.0",
           descricao: "Cadastro e situação fiscal e ambiental de fornecedores.",
           link:
-            "https://app.powerbi.com/groups/4e579487-dc55-4fb8-86f3-7c7d64bce621/reports/07d9bba9-ecd3-4461-b339-fdf3cb361c18/1c192b524619c300da09?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&openReportSource=ReportInvitation&experience=power-bi",
+            "https://app.powerbi.com/groups/4e579487-dc55-4fb8-86f3-7c7d64bce621/reports/084cd526-2a17-4198-8753-3063f488d9c1/a77883e9c30643ebac70?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&openReportSource=ReportInvitation&experience=power-bi",
           preview: "assets/img/bis/sustentabilidade-2-0.webp",
         },
         {
