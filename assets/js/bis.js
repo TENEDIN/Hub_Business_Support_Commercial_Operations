@@ -42,7 +42,7 @@ window.HUB = {
           nome: "Prestação de Serviço - Armazenagem",
           descricao: "Notas de prestação de serviço em silo e status de quitação.",
           link:
-            "https://app.powerbi.com/groups/941861e7-716f-4c16-8aaf-ec7c830a176a/reports/d5ff3725-a3b1-48c5-ba8e-90410bb7165d/973c78a5979bae081815?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&openReportSource=ReportInvitation&experience=power-bi",
+            "https://app.powerbi.com/groups/941861e7-716f-4c16-8aaf-ec7c830a176a/reports/477f5d30-776c-426b-97ac-d1fffcc0d16d/86b1616a04d508bb6ec6?experience=power-bi",
           preview: "assets/img/bis/prestacao-de-servico-armazenagem.webp",
         },
         {
