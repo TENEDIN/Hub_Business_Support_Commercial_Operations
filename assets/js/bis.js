@@ -80,6 +80,20 @@ window.HUB = {
             "https://app.powerbi.com/groups/me/reports/411ee3cb-bf3f-47b1-9014-5856257ad749/ReportSection?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&openReportSource=ReportInvitation&experience=power-bi",
           preview: "assets/img/bis/gestao-de-transito-rodoviario.webp",
         },
+        {
+          nome: "Validações Sobre Contribuições Federais Estaduais",
+          descricao: "Conferência das contribuições retidas de produtores rurais (FUNRURAL, IAGRO/FETHAB).",
+          link:
+            "https://app.powerbi.com/groups/me/apps/7d8f92e0-d32e-4d35-8597-c26b9964416d/reports/2b7af78a-60b7-49a2-901c-fd0d562b5fd4/8b4c421600422b4107a2?experience=power-bi",
+          preview: "assets/img/bis/validacoes-contribuicoes-federais-estaduais.webp",
+        },
+        {
+          nome: "Contratos Form Lote",
+          descricao: "Contratos de soja em grãos por localidade, situação e quantidade contratada.",
+          link:
+            "https://app.powerbi.com/groups/me/reports/719abaec-9de1-45c7-b5b9-2d11ca8053eb/ReportSection?experience=power-bi",
+          preview: "assets/img/bis/contratos-form-lote.webp",
+        },
       ],
     },
     {
@@ -122,6 +136,13 @@ window.HUB = {
           link:
             "https://app.powerbi.com/groups/me/reports/7e9f5923-fee9-4ade-82f4-19d6fbc71487/9f1be5f331e0cab83328?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&openReportSource=ReportInvitation&experience=power-bi",
           preview: "assets/img/bis/controle-dos-royalties.webp",
+        },
+        {
+          nome: "Gestão Contratos Originação",
+          descricao: "MTM e exposição financeira por titular: volumes, fixação e frete.",
+          link:
+            "https://app.powerbi.com/groups/me/reports/37f46f60-41c8-45e7-8614-f299f9c1f7ee/ReportSection?ctid=2f55bf32-42d4-44b3-a8c2-930ac8b182b2&experience=power-bi",
+          preview: "assets/img/bis/gestao-contratos-originacao.webp",
         },
       ],
     },
